@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Chest",
+        "link": "https://www.strengthlog.com/chest-exercises/",
+        "Exercises": {
+            "chest press": "https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html",
+            "incline chest press": "https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html",
+            "Chest Fly": "https://www.muscleandstrength.com/exercises/cable-crossovers-%28mid-chest%29.html"
+        }
+    },
+    {
+        "name": "Back",
+        "link": "https://www.strengthlog.com/back-exercises/",
+        "Exercises": {
+            "Lat Pulldown": "https://www.muscleandstrength.com/exercises/lat-pull-down.html",
+            "pull-ups": "https://www.muscleandstrength.com/exercises/wide-grip-pull-up.html",
+            "Chin-Up":"https://www.muscleandstrength.com/exercises/chin-up.html"
+        }
+    },
+    {
+        "name": "Shoulders",
+        "link": "https://www.strengthlog.com/shoulder-exercises/",
+        "Exercises": {
+            "Shoulder Press": "https://www.muscleandstrength.com/exercises/seated-dumbbell-press.html",
+            "Upright Row":"https://www.muscleandstrength.com/exercises/cable-upright-row.html"    
+        }
+    }
+]

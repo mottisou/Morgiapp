@@ -142,7 +142,7 @@ class WorkoutDataRow(tb.Frame):
     # Custom widgets
     class MuscleSelector(tb.Menubutton):
         def __init__(self, parent, muscles, exercise_selector=None):
-            super().__init__(parent, text="Muscle")
+            super().__init__(parent, text="Muscle",width=8)
             self.muscles = muscles
             self.exercise_selector = exercise_selector
             self.menu = Menu(self, tearoff=0)
